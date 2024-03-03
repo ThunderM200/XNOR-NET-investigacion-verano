@@ -7,6 +7,6 @@ Para trabajarse se utiliza un ambiente de Anaconda/Conda que utiliza las siguien
   - torch==1.11.0
 
 Notas: 
-  - Al igual que en el repositorio https://github.com/jiecaoyu/XNOR-Net-PyTorch , se utiliza el conjunto de datos proporcionado por torch;
+  - Al igual que en el repositorio https://github.com/jiecaoyu/XNOR-Net-PyTorch , se utiliza el conjunto de datos proporcionado por torch
   - Se recomienda leer lo relacionado a argparse antes de ejecutarlo (linea 100).
 
